@@ -1,0 +1,47 @@
+p{  display: block;
+      width: 150;
+      height: 20;
+      color: green;
+      background-color: white;
+      font-size: 40;
+
+}
+h2{
+font-size: 500;
+display: block;
+width: 200;
+background:white;
+border-left-width: thick;
+color: red;}
+.amend{
+font-size: 100;
+display: block;
+width: 200;
+background:black;
+border-left-width: thick;
+color: white;}
+.amend2{
+font-size: 100;
+display: block;
+width: 200;
+background:darkred;
+border-left-width: thick;
+color: green;
+}
+.amend3{
+  font-size: 100;
+  display: block;
+  width: 200;
+  background:white;
+  border-left-width: thick;
+  color: black;
+}
+
+.amend4{
+  font-size: 100;
+  display: block;
+  width: 200;
+  background:white;
+  border-left-width: thick;
+  color: black;
+}

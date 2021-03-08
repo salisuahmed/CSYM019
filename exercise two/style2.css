@@ -1,0 +1,17 @@
+.leftside {
+  height: 100%;
+  width:50%;
+  background-color: yellow;
+  display: block;
+  float: left;
+}
+
+
+
+.rightside {
+  display: block;
+height: 100%;
+width: 50%;
+background-color: lightblue;
+float: left;
+}
